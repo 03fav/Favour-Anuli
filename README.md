@@ -1,2 +1,2 @@
-# Favour-Anuli
+# Respectech
 School wedsite
